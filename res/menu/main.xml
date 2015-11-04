@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.upm.dit.adsw.pacman4.MainActivity" >
+
+    <item
+        android:id="@+id/button_reset"
+        android:title="@string/button_reset"/>
+    <item
+        android:id="@+id/fantasma00"
+        android:icon="@drawable/icon_fantasma_rojo"
+        android:title="@string/fantasma00"/>
+    <item
+        android:id="@+id/depredador"
+        android:icon="@drawable/icon_anibal"
+        android:title="@string/depredador"/>
+    <item
+        android:id="@+id/boton_trampa"
+        android:icon="@drawable/icon_trampa"
+        android:title="@string/trampa"/>
+    <item
+        android:id="@+id/boton_llave"
+        android:icon="@drawable/icon_llave"
+        android:title="@string/llave"/>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_menu_settings_holo_light"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_db"
+        android:title="@string/action_db">
+        <menu>
+            <item
+                android:id="@+id/action_db_save"
+                android:title="@string/action_db_save"/>
+            <item
+                android:id="@+id/action_db_load"
+                android:title="@string/action_db_load"/>
+        </menu>
+    </item>
+
+</menu>

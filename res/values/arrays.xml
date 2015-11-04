@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_color_entries">
+        <item name="green">green</item>
+        <item name="red">red</item>
+        <item name="blue">blue</item>
+        <item name="black">black</item>
+    </string-array>
+    <string-array name="pref_color_values">
+        <item name="green">green</item>
+        <item name="red">red</item>
+        <item name="blue">blue</item>
+        <item name="black">black</item>
+    </string-array>
+    <string-array name="pref_speed_entries">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="4">4</item>
+        <item name="8">8</item>
+    </string-array>
+    <string-array name="pref_speed_values">
+        <item name="1">1000</item>
+        <item name="2">500</item>
+        <item name="4">250</item>
+        <item name="8">125</item>
+    </string-array>
+    <string-array name="pref_background_entries">
+        <item name="null">Nada</item>
+        <item name="neb">Nebulosa</item>
+        <item name="degradado">Arco iris</item>
+        </string-array>
+    <string-array name="pref_background_values">
+        <item name="null">null</item>
+        <item name="neb">neb</item>
+        <item name="degradado">degradado</item>
+    </string-array>
+    <string-array name="pref_n_entries">
+        <item name="8">8</item>
+        <item name="10">10</item>
+        <item name="12">12</item>
+        <item name="15">15</item>
+        <item name="20">20</item>
+        <item name="30">30</item>
+        </string-array>
+    <string-array name="pref_n_values">
+        <item name="8">8</item>
+        <item name="10">10</item>
+        <item name="12">12</item>
+        <item name="15">15</item>
+        <item name="20">20</item>
+        <item name="30">30</item>
+        </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pacman v.4 ADSW</string>
+    <string name="title_activity_settings">Preferencias</string>
+    <string name="title_activity_db_save">Guardar</string>
+    <string name="title_activity_db_load">Cargar</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_db">DB</string>
+    <string name="action_db_load">Cargar</string>
+    <string name="action_db_save">Guardar</string>
+    <string name="button_reset">RESET</string>
+    <string name="fantasma00">F. Básico</string>
+    <string name="depredador">F. Depredador</string>
+    <string name="button_add">añade</string>
+    <string name="no_data">sin datos</string>
+    <string name="trampa">Trampa</string>
+    <string name="llave">Llave</string>
+       
+</resources>

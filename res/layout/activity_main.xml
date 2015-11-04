@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="es.upm.dit.adsw.pacman4.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <es.upm.dit.adsw.pacman4.GUI
+        android:id="@+id/gui"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

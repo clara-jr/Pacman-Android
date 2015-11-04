@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <ListPreference
+        android:defaultValue="1000"
+        android:key="pref_velocidad_fantasma"
+        android:title="Velocidad F. Básico"
+        android:entries="@array/pref_speed_entries"
+        android:entryValues="@array/pref_speed_values"
+        />
+
+    <ListPreference
+        android:defaultValue="1000"
+        android:key="pref_velocidad_depredador"
+        android:title="Velocidad F. Depredador"
+        android:entries="@array/pref_speed_entries"
+        android:entryValues="@array/pref_speed_values"
+        />
+     
+    <!--<ListPreference
+        android:defaultValue="10"
+        android:key="pref_n"
+        android:title="Número de casillas"
+        android:entries="@array/pref_n_entries"
+        android:entryValues="@array/pref_n_values"
+        />-->
+
+    <ListPreference
+        android:defaultValue="null"
+        android:key="pref_background"
+        android:title="Fondo"
+        android:entries="@array/pref_background_entries"
+        android:entryValues="@array/pref_background_values"
+        />
+    
+</PreferenceScreen>
